@@ -30,7 +30,7 @@ e = "a string with a right side."
 print (w + e)
 
 #here we text my above theory by assigning value of t to poop and then using format() to call out value of t as poop in the print function
-t = "poop"
+t = "test"
 r = "cute"
 joke_evaluation1 = "Isn't that joke so funny! {}"
 joke_evaluation2 = f"Isn't that joke so funny! {r}"
