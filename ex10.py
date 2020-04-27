@@ -52,3 +52,5 @@ print(cat7)
 #ASCii vertical tab but it returns a ? value in the string so dont know what it does.
 cat8 = "I am a cat \vthat is a fat wearing a hat"
 print(cat8)
+
+caty = "hat"
